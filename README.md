@@ -14,7 +14,21 @@ I'm a Mern Stack Developer with hands-on experience designing, developing and im
   <br />
  Javascript SPA- <a href="https://omogod-swp.netlify.app">StarwarsAPI- API consuming(netlify)</a>
    <br />
- My-portfolio- <a href="https://omogod-portfolio.web.app/">Personal Profile</a>
+ My-portfolio- <a href="https://omogod-portfolio.herokuapp.com">Personal Profile</a>
+<br />
+ Smooze Music App- <a href="https://smoozepro.netlify.app/">Music App</a>
+<br />
+ GT-Cosmo-App- <a href="https://gt-co.pages.dev/">Cosmetic App Frontend</a>
+<br />
+ Full_Stack VideoStreamApp- <a href="https://github.com/Omogod/VidStream_app_backend">Video Streaming App</a>
+<br />
+  Full_Stack VideoStreamApp- <a href="https://github.com/Omogod/Stream_App_Frontend">Video Streaming App</a>
+<br />
+  React Native App (use link on expo go app)- <a href="exp://exp.host/@omogod26/Omogod-Foods?release-channel=default">GT-Foods App</a>
+<br />
+  Food Ordering App- <a href="https://foodorderring.netlify.app">Food Ordering Application</a>
+<br />
+    Full-Stack e-commerce-app- <a href="https://g-trade.adaptable.app">E-commerce App</a>
 <br />
   <br />
   I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
